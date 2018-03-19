@@ -1,2 +1,2 @@
-# gtdp.github.io
-Main website of GTNGDocumentationProject
+# jalga.github.io
+Main website of Just Another LootGames Attempt team.
